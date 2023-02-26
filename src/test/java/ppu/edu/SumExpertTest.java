@@ -1,9 +1,9 @@
 package ppu.edu;
 
 import static org.junit.jupiter.api.Assertions.*;
-import static org.junit.Assert.*;
 import java.util.ArrayList;
-import org.junit.Test;
+
+import org.junit.jupiter.api.Test;
 import ppu.edu.SumExpert;
 
 class SumExpertTest {
